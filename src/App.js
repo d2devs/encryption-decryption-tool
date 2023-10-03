@@ -99,7 +99,7 @@ const App = () => {
               />
             </Form.Group>
 
-            <Form.Group controlId="decryptionKey" className='mb-2'>
+            <Form.Group controlId="decryptionKey" className='mb-3'>
               <Form.Check
                 type="checkbox"
                 label="Use Decryption Key"
